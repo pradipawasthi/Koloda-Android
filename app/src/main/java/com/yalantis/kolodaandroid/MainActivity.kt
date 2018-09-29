@@ -1,6 +1,5 @@
 package com.yalantis.kolodaandroid
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import com.yalantis.library.KolodaListener
 import kotlinx.android.synthetic.main.activity_main.*
@@ -8,6 +7,7 @@ import android.annotation.SuppressLint
 import android.view.Menu
 import android.view.MenuItem
 import android.view.ViewTreeObserver
+import androidx.appcompat.app.AppCompatActivity
 import com.yalantis.kolodaandroid.R.id.actionReload
 
 
